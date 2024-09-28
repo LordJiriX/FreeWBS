@@ -1,4 +1,5 @@
 # FreeWBS
+❗WARING alfa version❗
 ## Get start
 
 ### Learn
