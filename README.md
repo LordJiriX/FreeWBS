@@ -1,5 +1,7 @@
 # FreeWBS
 ## Get start
+
+### Learn
 ## Work
 ### Status
 | Thing      | Status |
