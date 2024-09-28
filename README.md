@@ -3,7 +3,17 @@
 ## Get start
 
 ### Learn
-## Work
+## Development
+### Browser support
+| Browsers     | Status |
+| ----------- | ----------- |
+| Chrome      | 🟢       |
+|  Firefox  | 🛑        |
+| Edge | 🛑     |
+
+🟢 Done
+🔨 Working
+🛑 Waits
 ### Status
 | Thing      | Status |
 | ----------- | ----------- |
