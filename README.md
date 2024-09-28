@@ -5,4 +5,8 @@
 | Thing      | Status |
 | ----------- | ----------- |
 | Basic syntax      | 🔨       |
-|  Browser support  | Text        |
+|  Browser support  | 🛑        |
+
+🟢 Done
+🔨 Working
+🛑 Waits
