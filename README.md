@@ -10,6 +10,7 @@
 | Chrome      | 🟢       |
 |  Firefox  | 🛑        |
 | Edge | 🛑     |
+| Safari | 🛑     |
 
 🟢 Done
 🔨 Working
