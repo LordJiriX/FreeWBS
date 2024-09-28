@@ -2,7 +2,7 @@
 ## Get start
 ## Work
 ### 
-| Syntax      | Description |
+| Thing      | Status |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Basic syntax      | 🔨       |
+|  Browser support  | Text        |
