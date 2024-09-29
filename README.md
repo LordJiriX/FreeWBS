@@ -1,6 +1,8 @@
 # FreeWBS
 ❗WARING alfa version❗
 
+🚫In development🚫 Not a fixed version to use please wait
+
 Small CSS library with light styles and ease of use
 ## Get start
 [Docs]()
