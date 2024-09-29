@@ -2,7 +2,9 @@
 ❗WARING alfa version❗
 Small CSS library with light styles and ease of use
 ## Get start
+[Docs]()
 
+[Wiki]()
 ### Learn
 ## Development
 ### Browser support
