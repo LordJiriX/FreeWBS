@@ -6,7 +6,6 @@ Small CSS library with light styles and ease of use
 [Docs]()
 
 [Wiki]()
-### Learn
 ## Development
 ### Browser support
 | Browsers     | Status |
