@@ -1,0 +1,256 @@
+.button-blue {
+  background-color: #007bff; 
+            border: none;
+            color: white; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-blue:hover {
+            background-color: #0056b3; 
+}
+.button-red {
+  background-color: #ff0000; 
+            border: none;
+            color: white; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem;
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+            
+  
+}
+.button-red:hover {
+            background-color: #ff3b3b; 
+}
+.button-green {
+  background-color: #3d8200; 
+            border: none;
+            color: white; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-green:hover {
+            background-color: #5cb83b; 
+}
+.button-black {
+  background-color: #000000; 
+            border: none;
+            color: white; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-black:hover {
+            background-color: #6a6b69; 
+}
+a {
+            text-decoration: none;
+}
+.input-submit-blue {
+  background-color: #007bff; 
+            border: none;
+            color: white; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-blue-black {
+  background-color: #007bff; 
+            border: 3px solid black;;
+            color: black; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radiu: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-orange {
+  background-color: #edc600; 
+            border: none;
+            color: black; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -moz-border-radius: .25rem;
+  -webkit-border-radius: .25rem;
+}
+.button-orange:hover {
+            background-color: #ffe347; 
+}
+.font-arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.font-georgia {
+  font-family: Georgia, serif;
+}
+.font-cursive {
+font-family: cursive; 
+}
+.font-serif {
+  font-family: serif;
+}
+.font-emoji {
+font-family: emoji;
+}
+.font-monospace {
+   font-family: monospace;
+ }
+.button-black-white {
+  background-color: #ffffff; 
+            border: 2px solid black;
+            color: black; 
+            padding: 6px 32px; 
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: .25rem; 
+  -webkit-border-radius: .25rem;
+  -moz-border-radius: .25rem;
+}
+.button-black-white:hover {
+            background-color: #000000; 
+  color: white;
+  border: 2px solid white;
+}
+.text-color-red {
+  color: red;
+}
+.text-color-blue {
+  color: blue;
+}
+.text-color-white {
+  color: white
+}
+.text-color-green {
+  color: green
+}
+.text-color-pink {
+  color: pink;
+}
+.text-color-purple {
+  color: purple
+}
+.text-color-yellow {
+  color: yellow
+}
+.text-color-orange {
+  color: orange;
+}
+.text-color-coral {
+  color: coral
+}
+.text-color-auqua {
+  color: #00FFFF;
+}
+.text-color-azure {
+  color: #F0FFFF;
+}
+.text-color-burlywood {
+  color: burlywood;
+}
+.text-color-chartreuse {
+  color: #7FFF00;
+}
+.text-color-crimson {
+  color: crimson;
+}
+.text-color-chocolate {
+  color: chocolate;
+}
+.background-color-red {
+  color: red;
+}
+.background-color-blue {
+  color: blue;
+}
+.background-color-white {
+  color: white
+}
+.background-color-green {
+  color: green
+}
+.background-color-pink {
+  color: pink;
+}
+.background-color-purple {
+  color: purple
+}
+.background-color-yellow {
+  color: yellow
+}
+.background-color-orange {
+  color: orange;
+}
+.background-color-coral {
+  color: coral
+}
+.background-color-auqua {
+  color: #00FFFF;
+}
+.background-color-azure {
+  color: #F0FFFF;
+}
+.background-color-burlywood {
+  color: burlywood;
+}
+.background-color-chartreuse {
+  color: #7FFF00;
+}
+.background-color-crimson {
+  color: crimson;
+}
+.background-color-chocolate {
+  color: chocolate;
+}
+.background-image-freewbsicon {
+  background-image: url('assests/background/icon.png')
+}
